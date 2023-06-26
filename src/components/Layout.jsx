@@ -1,7 +1,6 @@
 import { Outlet } from 'react-router-dom';
 
 import { AppBar } from './AppBar/AppBar';
-import { Flex, Spacer } from '@chakra-ui/react'
 import { Suspense } from 'react';
 
 export const Layout = () => {
